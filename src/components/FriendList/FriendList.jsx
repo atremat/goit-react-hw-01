@@ -1,7 +1,6 @@
 import FriendListItem from "../FriendListItem/FriendListItem";
 
 const FriendList = ({ friends }) => {
-  console.log(friends);
   return (
     <ul>
       {friends.map((friend) => (
