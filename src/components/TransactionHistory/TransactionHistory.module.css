@@ -1,0 +1,28 @@
+.history-table {
+  margin: 0 auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  width: 150px;
+}
+
+.history-table-thead th {
+  background-color: #424242;
+  color: #fff;
+  border-color: #000;
+}
+
+.history-table-tr {
+}
+
+.history-table-tr:nth-child(2n) {
+  background-color: #dcdcdc;
+}
