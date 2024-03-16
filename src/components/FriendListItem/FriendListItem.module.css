@@ -1,0 +1,26 @@
+.friendlist-item {
+  border: 2px solid #000;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.friendlist-img {
+  width: 96px;
+  margin-bottom: 10px;
+}
+
+.friendlist-name {
+  font-size: 24px;
+}
+
+.friendlist-status {
+  font-size: 18px;
+}
+
+.friendlist-online {
+  color: #008000;
+}
+
+.friendlist-offline {
+  color: #ff0000;
+}
